@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 100
+      maxTextureSize: 2048
+      textureCompression: 2
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 1
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 701f8d3b6112e8d4c80ce90b73cd22d4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 41f927d1a0d01d74b8f392dc9d00a066, type: 3}
+  - {fileID: 21300000, guid: 4ec5e8e694bc3334db32778bebfd01e7, type: 3}
+  - {fileID: 21300000, guid: fdf9505acc4050143af4484d372ca54a, type: 3}
+  - {fileID: 21300000, guid: 683e7d9d6853b8a4b9dbe41a0be44b5c, type: 3}
+  - {fileID: 21300000, guid: 34624a0e889b4f4418d79e7daefccd72, type: 3}
+  - {fileID: 21300000, guid: ef419fce13384654bab5cbf27232d640, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ManticoreArmor (Type=Armor, Collection=Pro)
+  - BattleguardArmor (Type=Armor, Collection=AbandonedWorkshop)
+  - DarkMountain (Type=Armor, Collection=Thrones)
+  - GreyKnight (Type=Armor, Collection=SpellMasters)
+  - Scout [Paint] (Type=Armor, Collection=Basic)
+  - BanditLightArmor [Paint] (Type=Armor, Collection=Basic)
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0
